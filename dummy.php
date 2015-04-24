@@ -2,7 +2,7 @@
 <?php
 
 
-print_r("HELLO YOU FUCKERS".PHP_EOL);
+print_r("Hello".PHP_EOL);
 
 
 
